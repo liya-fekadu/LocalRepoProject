@@ -1,1 +1,3 @@
-hello, Git and GitHub!
+Hello, Git and GitHub!
+Hello, Git and GitHub! >> hello.txt
+echo Hello, Git and GitHub!
